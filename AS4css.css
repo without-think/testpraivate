@@ -1,0 +1,138 @@
+body{
+    display: flex;
+    justify-content: center;
+
+}
+.background {
+ 
+    background-position: center;
+    background-attachment: scroll;
+    flex-direction: column;
+    
+}
+
+.header{
+    align-items: center;
+    display: flex;
+    background-color: antiquewhite;
+    max-width: 900px;
+    margin-bottom: 20px;
+}
+
+img{
+    margin-top: 10px;
+    width: 150px;
+    height: auto;
+    margin-bottom: 10px;
+}
+.headermid{
+   
+    display: flex;
+    flex-direction: column;
+
+    margin-bottom: 1px;
+    margin-top: 1px;
+}
+.headerh1{
+   
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-size: 25px;
+    margin-left: 10px;
+}
+.h1a{
+    margin-bottom: 1px;
+    margin-left: 13px;
+}
+.h1p{
+    margin-top: 5px;
+    margin-left: 13px;
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+.headerp{
+     text-align: justify;
+    margin-top: 0%;
+    font-size: 13px;
+    margin-left: 15px;
+}
+
+.headerleft{
+    margin-left: 120px;
+    text-align: right;
+    display: flex;
+    justify-content: flex-end;
+    font-size: 10px;
+}
+
+
+.mainh1{
+    border-bottom: 2px solid;
+    font-weight: bold;
+    background-color: antiquewhite;
+    margin-bottom: 0px;
+}
+
+.main{
+    background-color: antiquewhite;
+    font-size: 15x;
+
+    max-width: 800px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    text-align: justify;
+}
+.main2{
+    background-color: lightblue;
+    font-size: 15x;
+
+    max-width: 800px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    text-align: justify;
+}
+
+.main3{
+    background-color: lightgray;
+    font-size: 15x;
+
+    max-width: 800px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    text-align: justify;
+}
+.to{
+    margin-top: 0%;
+    font-size: 16px;
+
+    margin-bottom: 0%;
+    background-color: aquamarine;
+}
+
+.closing{
+    font-size: 8px;
+}
+.cls{
+    
+}
+
+.mainbox1{
+    border: 2px dotted;
+    background-color: aquamarine;
+    border-color: lightgoldenrodyellow;
+    margin-bottom: 20px;
+}
+.mainbox2{
+    border: 2px dotted;
+    background-color: lightblue;
+    border-color: lightgoldenrodyellow;
+    margin-bottom: 20px;
+}
+
+.mainbox3{
+    border: 2px dotted;
+    background-color: lightgray;
+    border-color: lightgoldenrodyellow;
+    margin-bottom: 20px;
+}
+
